@@ -8,6 +8,8 @@ O usuário pode criar ou baixar sessões através de suas credenciais localizada
 Dentro de uma sessão, um painel de controle é utilizado para navegar pelas etapas criadas e/ou alterar o modo de execução para Edição/Exibição.
 No modo edição, uma biblioteca de objetos baixa assetsbundles de um servidor e os carrega na aplicação, permitindo o usuário posiciona-los no ambiente.
 
+![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/App.png)
+
 Link: [Demo](https://www.youtube.com/watch?v=6pUJNVd_mAE)
 
 O sistema foi desenvolvido com a Unity Engine, em C#, para a plataforma Oculus Quest 2.
