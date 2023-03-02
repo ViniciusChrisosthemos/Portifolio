@@ -35,6 +35,12 @@ Link: [Demo](https://www.youtube.com/watch?v=LYU5auk4eyE)
 
 O Aplicativo foi desenvolvido com a Unity Engine, em C#, para a plataforma Android e IOS.
 
+# Instancias de Objetos 3D em marcadores físicos
+
+Uma aplicação de Realidade Aumentada baseada em marcadores fisicos para instanciar objetos 3D. O App contém um conjunto fixo de marcadores disponíveis e um mecanismo de vinculação de modelos 3D com os marcadores. Os modelos 3D sao baixados do repositório público do Grupo de Realidade Virtual GRV, da PUCRS, nesta URL.
+
+O Aplicativo foi desenvolvido com a Unity Engine, em C#, para a plataforma Android e IOS.
+
 # Tetris
 
 Uma replica do jogo Tetris com alguns efeitos legais.
