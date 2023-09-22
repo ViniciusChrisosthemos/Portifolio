@@ -99,7 +99,7 @@ Uma aplicação em Realidade Virtual para a visualização de dados gerados pelo
 A aplição permite visualizar o comportamento dos grupos de pessoas se deslocando de um região de interesse para outra.
 O usuário pode selecionar as regiões para visualizar o total de pessoas saudáveis e infectadas no local, assim como seu comportamento ao longo da simulação.
 
-![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/visu_dados_demo.png)
+![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/visu_dados_vr_demo.png)
 
 Link: [Demo](http://tiny.cc/VisuDadosVR)
 
