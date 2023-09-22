@@ -10,7 +10,7 @@ No modo edição, uma biblioteca de objetos baixa assetsbundles de um servidor e
 
 ![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/App.png)
 
-Link: [Demo](https://www.youtube.com/watch?v=6pUJNVd_mAE)
+Link: [Demo](http://tiny.cc/TrainingEditorDemo)
 
 O sistema foi desenvolvido com a Unity Engine, em C#, para a plataforma Oculus Quest 2.
 
@@ -81,3 +81,26 @@ Um aplicativo que detecta uma etiqueta e gera a distância entre os pontos conti
 Link: PRIVADO
 
 O sistema foi desenvolvido em C++, para a plataforma Windows.
+
+# Sistema de Assistencia Remota em Realidade Aumentada
+
+Um sistema que permite a conexão remota de uma aplicação cliente no Oculus Quest e um servidor Desktop.
+O cliente identifica uma etiqueta no ambiente e grava seu ponto de vista e envia os frames para o servidor, que o visualiza e instância objetos virtuais no campo de visão do cliente.
+
+![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/assistencia_remota_demo.png)
+
+Link [Demo](https://youtu.be/JWfYCmh9_Lc)
+
+O sistema foi desenvolvido com a Unity Engine, em C#, para a plataforma Oculus Quest 2.
+
+# Visualizador de dados simulador em Realidade Virtual
+
+Uma aplicação em Realidade Virtual para a visualização de dados gerados pelo simulador de multidões LODUS (https://repositorio.pucrs.br/dspace/handle/10923/20528).
+A aplição permite visualizar o comportamento dos grupos de pessoas se deslocando de um região de interesse para outra.
+O usuário pode selecionar as regiões para visualizar o total de pessoas saudáveis e infectadas no local, assim como seu comportamento ao longo da simulação.
+
+![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/visu_dados_demo.png)
+
+Link: [Demo](http://tiny.cc/VisuDadosVR)
+
+O sistema foi desenvolvido com a Unity Engine, em C#, para a plataforma Oculus Quest 2.
