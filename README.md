@@ -1,106 +1,113 @@
-# Portifolio
-Repositório destino aos meus projetos profissionais e pessoais.
+# Curriculum Vitae
 
-# Sistema de treinamento de manutenção de máquinas utilizando Realidade Virtual e Aumentada
+# Resume
+Master's degree (in progress) in Computer Science. I am interested in the area of ​​developing Virtual and Augmented Reality applications, Computer Vision and Games.
+I have knowledge in: C, C++, C#, Java, Python, Unity, Git, OpenCV, OpenGL.
 
-Um sistema de treinamento de manutenção de máquinas que utiliza Realidade Virtual e Aumenta para montar e executar etapas de um processo.
-O usuário pode criar ou baixar sessões através de suas credenciais localizadas em seu servidor e modificá-las via arquivo json ou pela própria aplicação.
-Dentro de uma sessão, um painel de controle é utilizado para navegar pelas etapas criadas e/ou alterar o modo de execução para Edição/Exibição.
-No modo edição, uma biblioteca de objetos baixa assetsbundles de um servidor e os carrega na aplicação, permitindo o usuário posiciona-los no ambiente.
+# Education
+[2022-Today] Master's Degree in Computer Science
+
+[2017-2022] Bachelor's degree in Computer 
+
+# Projects
+## Machine maintenance training system using Virtual and Augmented Reality
+
+A machine maintenance training system that utilizes Virtual Reality and Augmented Reality to assemble and execute steps of a process.
+The user can create or download sessions through their credentials located on their server and modify them via a JSON file or through the application itself.
+Within a session, a control panel is used to navigate through the created steps and/or change the execution mode to Editing/Viewing.
+In editing mode, a library of objects downloads asset bundles from a server and loads them into the application, allowing the user to position them in the environment.
 
 ![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/App.png)
 
 Link: [Demo](http://tiny.cc/TrainingEditorDemo)
 
-O sistema foi desenvolvido com a Unity Engine, em C#, para a plataforma Oculus Quest 2.
+The system was developed using the Unity Engine, in C#, for the Oculus Quest 2 platform.
 
-# Replay de jogadas em Realidade Virtual
+# Game replay in Virtual Reality
 
-Uma aplicação para dispositivos mobiles que permite baixar replays de jogadas de futebol de um servidor e assisti-las de ângulos diferente em Realidade Virtual.
-O App permite baixar essas jogadas (replay animado + vídeo da jogada), reproduzi-lo no telão do estádio e visualizar a jogada no campo de visão de posições pré-definidas. 
+An application for mobile devices that allows users to download football play replays from a server and watch them from different angles in Virtual Reality. The app enables users to download these plays (animated replay + video of the play), play it on the stadium's big screen, and view the play within the field of vision from predefined positions.
 
 ![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/Replay.png)
 
 Link: [Demo](https://www.youtube.com/watch?v=DELOkUuWptk)
 
-O Aplicativo foi desenvolvido com a Unity Engine, em C#, para a plataforma Android e IOS.
+The application was developed using the Unity Engine, in C#, for the Android and iOS platforms.
 
-# Posicionamento de Objetos Virtuais
+# Positioning of Virtual Objects
 
-Um aplicativo que permite posicionar Objetos Virtuais (de futebol) no ambiente. O App escaneia as superfícies do ambiente e permite instanciar uma lista de objetos, além de movimentá-los e excluí-los.
+An application that allows you to position virtual objects (football) in the environment. The App scans the surfaces of the environment and allows you to instantiate a list of objects, as well as move and delete them.
 
 ![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/PosicionaObjetos.png)
 
 Link: [Demo](https://www.youtube.com/watch?v=LYU5auk4eyE)
 
-O Aplicativo foi desenvolvido com a Unity Engine, em C#, para a plataforma Android e IOS.
+The Application was developed with Unity Engine, in C#, for the Android and IOS platforms.
 
-# Instancias de Objetos 3D em marcadores físicos
+# Instances of 3D objects in physical markers
 
-Uma aplicação de Realidade Aumentada baseada em marcadores fisicos para instanciar objetos 3D. O App contém um conjunto fixo de marcadores disponíveis e um mecanismo de vinculação de modelos 3D com os marcadores. Os modelos 3D sao baixados do repositório público do Grupo de Realidade Virtual GRV, da PUCRS, nesta URL.
+An Augmented Reality application based on physical markers to instantiate 3D objects. The App contains a fixed set of available markers and a mechanism for linking 3D models with the markers. The 3D models are downloaded from the public repository of the GRV Virtual Reality Group, PUCRS, at this URL.
 
-O Aplicativo foi desenvolvido com a Unity Engine, em C#, para a plataforma Android e IOS.
+The Application was developed with Unity Engine, in C#, for the Android and IOS platforms.
 
 # Tetris
 
-Uma replica do jogo Tetris com alguns efeitos legais.
+A replica of the Tetris game with some cool effects.
 
 ![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/Tetris.png)
 
 Link: [Demo](https://github.com/ViniciusChrisosthemos/Tetris)
 
-O sistema foi desenvolvido com a Unity Engine, em C#, para a plataforma Windows Desktop.
+The system was developed with the Unity Engine, in C#, for the Windows Desktop platform.
 
 # Pong
 
-Uma replica do jogo Pong com alguns efeitos legais.
+A replica of the game Pong with some cool effects.
 
 ![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/Pong.png)
 
 Link: [Demo](https://github.com/ViniciusChrisosthemos/Pong)
 
-O sistema foi desenvolvido com a Unity Engine, em C#, para a plataforma Windows Desktop.
+The system was developed with the Unity Engine, in C#, for the Windows Desktop platform.
 
 # CantTouchThis
 
-Um jogo cujo o objetivo do jogador é não ser tocado pelos círculos coloridos até acabar a música (Cant Touch this).
+A game where the player's objective is not to be touched by the colored circles until the song ends (Cant Touch this).
 
 ![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/CantTouchThis.png)
 
 Link: [Demo](https://simmer.io/@VChrisosthemos/canttouchthis)
 
-O sistema foi desenvolvido com a Unity Engine, em C#, para a plataforma WebGL.
+The system was developed with the Unity Engine, in C#, for the WebGL platform.
 
-# Video-Monitor respiratório
+# Video respiratory monitor
 
-Um aplicativo que detecta uma etiqueta e gera a distância entre os pontos contidos nela. Essa distância é utilizada para medir a contração do abdômen de bebês prematuros e identificar seu estado do ciclo respiratório. O App identifica a etiqueta e define uma região de interesse de forma automática. Além disso, o App permite gravar os frames da câmera em um vídeo para ser analisados em um gráfico posteriormente.
-
+An application that detects a label and generates the distance between the points contained within it. This distance is used to measure the contraction of the abdomen of premature babies and identify their respiratory cycle status. The App automatically identifies the tag and defines a region of interest. Furthermore, the App allows you to record camera frames in a video to be analyzed in a graph later.
 
 ![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/Monitor.png)
 
-Link: PRIVADO
+Link: PRIVATE
 
-O sistema foi desenvolvido em C++, para a plataforma Windows.
+The system was developed in C++, for the Windows platform.
 
-# Sistema de Assistencia Remota em Realidade Aumentada
+# Remote Assistance System in Augmented Reality
 
-Um sistema que permite a conexão remota de uma aplicação cliente no Oculus Quest e um servidor Desktop.
-O cliente identifica uma etiqueta no ambiente e grava seu ponto de vista e envia os frames para o servidor, que o visualiza e instância objetos virtuais no campo de visão do cliente.
+A system that allows the remote connection of a client application to the Oculus Quest and a Desktop server.
+The client identifies a tag in the environment and records its point of view and sends the frames to the server, which visualizes it and instantiates virtual objects in the client's field of view.
 
 ![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/assistencia_remota_demo.png)
 
 Link [Demo](https://youtu.be/JWfYCmh9_Lc)
 
-O sistema foi desenvolvido com a Unity Engine, em C#, para a plataforma Oculus Quest 2.
+The system was developed with the Unity Engine, in C#, for the Oculus Quest 2 platform.
 
-# Visualizador de dados simulador em Realidade Virtual
+# Simulator data viewer in Virtual Reality
 
-Uma aplicação em Realidade Virtual para a visualização de dados gerados pelo simulador de multidões LODUS (https://repositorio.pucrs.br/dspace/handle/10923/20528).
-A aplição permite visualizar o comportamento dos grupos de pessoas se deslocando de um região de interesse para outra.
-O usuário pode selecionar as regiões para visualizar o total de pessoas saudáveis e infectadas no local, assim como seu comportamento ao longo da simulação.
+A Virtual Reality application for visualizing data generated by the LODUS crowd simulator (https://repositorio.pucrs.br/dspace/handle/10923/20528).
+The application allows you to visualize the behavior of groups of people moving from one region of interest to another.
+The user can select regions to view the total number of healthy and infected people in the location, as well as their behavior throughout the simulation.
 
 ![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/visu_dados_vr_demo.png)
 
 Link: [Demo](http://tiny.cc/VisuDadosVR)
 
-O sistema foi desenvolvido com a Unity Engine, em C#, para a plataforma Oculus Quest 2.
+The system was developed with the Unity Engine, in C#, for the Oculus Quest 2 platform.
