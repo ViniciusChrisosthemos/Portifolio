@@ -10,6 +10,17 @@ I have knowledge in: C, C++, C#, Java, Python, Unity, Git, OpenCV, OpenGL.
 [2017-2022] Bachelor's degree in Computer 
 
 # Projects
+## Naruto Game
+
+This is a card game based on the anime "Naruto." The game incorporates mechanics that allow players to form a team consisting of four cards, acquire and enhance cards, engage in a campaign that reenacts iconic battles from the anime, and undertake missions with specific card set requirements.
+
+![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/game_1_print_1.png)
+![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/game_1_print_2.png)
+![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/game_1_print_3.png)
+
+The system was developed using the Unity Engine, in C#, for the Android platform.
+
+
 ## Machine maintenance training system using Virtual and Augmented Reality
 
 A machine maintenance training system that utilizes Virtual Reality and Augmented Reality to assemble and execute steps of a process.
