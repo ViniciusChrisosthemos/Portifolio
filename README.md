@@ -10,7 +10,7 @@ I have knowledge in: C, C++, C#, Java, Python, Unity, Git, OpenCV, OpenGL.
 [2017-2022] Bachelor's degree in Computer 
 
 # Projects
-## Naruto Game
+## Card Game
 
 This is a card game based on the anime "Naruto." The game incorporates mechanics that allow players to form a team consisting of four cards, acquire and enhance cards, engage in a campaign that reenacts iconic battles from the anime, and undertake missions with specific card set requirements.
 
