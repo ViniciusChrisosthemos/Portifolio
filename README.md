@@ -14,11 +14,12 @@ I have knowledge in: C, C++, C#, Java, Python, Unity, Git, OpenCV, OpenGL.
 
 This is a card game based on the anime "Naruto." The game incorporates mechanics that allow players to form a team consisting of four cards, acquire and enhance cards, engage in a campaign that reenacts iconic battles from the anime, and undertake missions with specific card set requirements.
 
-![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/game_1_print_1.png)
-![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/game_1_print_2.png)
-![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/game_1_print_3.png)
+![alt text](https://github.com/ViniciusChrisosthemos/NarutoGame/blob/main/game_screen_1.png)
+![alt text](https://github.com/ViniciusChrisosthemos/NarutoGame/blob/main/game_screen_2.png)
+![alt text](https://github.com/ViniciusChrisosthemos/NarutoGame/blob/main/game_screen_3.png)
 
 Link: [Demo](https://www.youtube.com/watch?v=GYt0Hw6Az88)
+
 Link: [Github com apk](https://github.com/ViniciusChrisosthemos/NarutoGame)
 
 The system was developed using the Unity Engine, in C#, for the Android platform.
