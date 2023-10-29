@@ -18,6 +18,8 @@ This is a card game based on the anime "Naruto." The game incorporates mechanics
 ![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/game_1_print_2.png)
 ![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/game_1_print_3.png)
 
+Link: [Demo](https://www.youtube.com/watch?v=GYt0Hw6Az88)
+
 The system was developed using the Unity Engine, in C#, for the Android platform.
 
 
