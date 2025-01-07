@@ -1,13 +1,15 @@
 # Curriculum Vitae
 
 # Resume
-Master's degree (in progress) in Computer Science. I am interested in the area of ​​developing Virtual and Augmented Reality applications, Computer Vision and Games.
+PhD's degree (in progress) in Computer Science. I am interested in the area of ​​developing Virtual and Augmented Reality applications, Computer Vision and Games.
 I have knowledge in: C, C++, C#, Java, Python, Unity, Git, OpenCV, OpenGL.
 
 # Education
-[2022-Today] Master's Degree in Computer Science
+[2024 - Today] PhD's degree in Computer Science (PUCRS)
 
-[2017-2022] Bachelor's degree in Computer 
+[2022- 2024] Master's Degree in Computer Science (PUCRS)
+
+[2017-2022] Bachelor's degree in Computer (PUCRS)
 
 # Projects
 ## Machine maintenance training system using Virtual and Augmented Reality
