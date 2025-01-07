@@ -127,3 +127,11 @@ Link: [Demo](https://www.youtube.com/watch?v=GYt0Hw6Az88)
 Link: [Github com apk](https://github.com/ViniciusChrisosthemos/NarutoGame)
 
 The system was developed using the Unity Engine, in C#, for the Android platform.
+
+## Virtual Reality for Mathematic
+
+Virtual reality project for mathematics learning.
+
+![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/Demo_projeto_matematicaVR.png)
+
+Link: [Demo](https://youtu.be/OsFk1aOQ23g)
