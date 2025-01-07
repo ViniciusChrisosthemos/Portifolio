@@ -9,7 +9,7 @@ I have knowledge in: C, C++, C#, Java, Python, Unity, Git, OpenCV, OpenGL.
 
 [2022- 2024] Master's Degree in Computer Science (PUCRS)
 
-[2017-2022] Bachelor's degree in Computer (PUCRS)
+[2017-2022] Bachelor's degree in Computer Science (PUCRS)
 
 # Projects
 ## Machine maintenance training system using Virtual and Augmented Reality
