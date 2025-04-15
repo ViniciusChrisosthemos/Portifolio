@@ -116,8 +116,9 @@ The system was developed with the Unity Engine, in C#, for the Oculus Quest 2 pl
 
 ## Virtual Reality for Mathematic
 
-Virtual reality project for mathematics learning.
 
-![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/Demo_projeto_matematicaVR.png)
+A virtual reality environment inspired by the PUCRS Museum. It features several of the museum's attractions along with some activities to practice math concepts for children.
+
+![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/Demo_Projeto_Museu.png)
 
 Link: [Demo](https://youtu.be/OsFk1aOQ23g)
