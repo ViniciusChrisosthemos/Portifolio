@@ -114,7 +114,7 @@ Link: [Demo](http://tiny.cc/VisuDadosVR)
 
 The system was developed with the Unity Engine, in C#, for the Oculus Quest 2 platform.
 
-## Virtual Reality for Mathematic
+## VR Museum
 
 
 A virtual reality environment inspired by the PUCRS Museum. It features several of the museum's attractions along with some activities to practice math concepts for children.
