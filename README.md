@@ -18,6 +18,9 @@ This project is a Virtual Reality application developed in Unity, designed to su
 
 Within the museum, each attraction presents math-focused activities tailored to teaching specific concepts. The activities include built-in tutorials to guide students step by step, making the content accessible and inclusive. By combining immersive VR technology with targeted educational design, the project aims to provide an innovative and supportive tool for enhancing mathematics learning.
 
+
+![alt text](https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/vr-museum.png)
+
 Link: [Demo](https://youtu.be/-J63ma1XvAU)
 
 ## Virtual Bike
