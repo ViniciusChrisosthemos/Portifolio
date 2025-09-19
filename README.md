@@ -45,7 +45,9 @@ The project combines hardware integration, real-time data streaming, and VR deve
 ![alt text](https://github.com/Projetos-GRV/VRBike_Temp/blob/Dev-Vinicius/imgs/app_1.png)
 ![alt text](https://github.com/Projetos-GRV/VRBike_Temp/blob/Dev-Vinicius/imgs/app_2.png)
 
-Link: [Source](https://github.com/Projetos-GRV/VRBike_Temp)
+Link: 
+- [Source](https://github.com/Projetos-GRV/VRBike_Temp)
+- [Demo](https://youtu.be/GAMwGyg6p1Y)
 
 ## Machine maintenance training system using Virtual and Augmented Reality
 
