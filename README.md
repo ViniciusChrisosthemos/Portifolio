@@ -40,11 +40,7 @@ This project is a Virtual Reality application that simulates riding a bicycle us
 
 The project combines hardware integration, real-time data streaming, and VR development to create a fun and immersive experience of riding a bicycle inside a virtual world.
 
-![alt text](https://github.com/Projetos-GRV/VRBike_Temp/blob/Dev-Vinicius/imgs/bike_1.jpg)
-![alt text](https://github.com/Projetos-GRV/VRBike_Temp/blob/Dev-Vinicius/imgs/bike_2.jpg)
-![alt text](https://github.com/Projetos-GRV/VRBike_Temp/blob/Dev-Vinicius/imgs/bike_3.jpg)
-![alt text](https://github.com/Projetos-GRV/VRBike_Temp/blob/Dev-Vinicius/imgs/app_1.png)
-![alt text](https://github.com/Projetos-GRV/VRBike_Temp/blob/Dev-Vinicius/imgs/app_2.png)
+![alt text](https://github.com/Projetos-GRV/VRBike/blob/main/imgs/bike_demo.png)
 
 Link: 
 - [Source](https://github.com/Projetos-GRV/VRBike_Temp)
