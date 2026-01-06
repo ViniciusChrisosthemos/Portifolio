@@ -12,6 +12,17 @@ I have knowledge in: C, C++, C#, Java, Python, Unity, Git, OpenCV, OpenGL.
 [2017-2022] Bachelor's degree in Computer Science (PUCRS)
 
 # Projects
+## Disptach + MHA
+This project is a clone of the game Dispatch developed using Unity, created solely for educational and learning purposes in Unity game development.
+The main goal is to study and replicate the mechanics, systems, and visual elements of the original game in order to improve skills in programming, game design, and Unity tools.
+This project is not intended for commercial use and does not aim to replace or compete with the original game.
+
+<img src="https://github.com/ViniciusChrisosthemos/Portifolio/blob/main/Clone-Dispatch-MHA.png" alt="Description" width="1080">
+
+Link: 
+- [Source](https://github.com/ViniciusChrisosthemos/GameDispatchLike)
+- [Demo](https://www.youtube.com/watch?v=ebOV1wkTgug)
+
 ## Virtual Museum
 
 This project is a Virtual Reality application developed in Unity, designed to support the learning process of students with special educational needs, such as cerebral palsy, dyscalculia, and low vision. The experience recreates a virtual museum environment, inspired by the PUCRS Museum, where students can explore interactive exhibits in an immersive and engaging way.
