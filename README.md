@@ -5,7 +5,7 @@ I have knowledge in: C, C++, C#, Java, Python, Unity, Git, OpenCV, OpenGL.
 # Education
 [2024 - Today] PhD's degree in Computer Science (PUCRS)
 
-[2022- 2024] Master's Degree in Computer Science (PUCRS)
+[2022- 2023] Master's Degree in Computer Science (PUCRS)
 
 [2017-2022] Bachelor's degree in Computer Science (PUCRS)
 
