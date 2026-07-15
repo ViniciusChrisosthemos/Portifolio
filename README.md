@@ -2,6 +2,8 @@
 PhD's degree (in progress) in Computer Science. I am interested in the area of ​​developing Virtual and Augmented Reality applications, Computer Vision and Games.
 I have knowledge in: C, C++, C#, Java, Python, Unity, Git, OpenCV, OpenGL.
 
+[More here](./Resume_Vinicius_Chrisosthemos_Full.pdf)
+
 # Education
 [2024 - Today] PhD's degree in Computer Science (PUCRS)
 
