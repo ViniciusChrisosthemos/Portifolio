@@ -23,6 +23,20 @@ Within the museum, each attraction presents math-focused activities tailored to 
 ![alt text](./vr-museum.png)
 
 
+## Combat system like Clair Obscure: Expedition 33
+
+This Unity project recreates a turn-based combat system inspired by Clair Obscur: Expedition 33.
+During each turn, characters can choose between Attack or Skip Turn.
+When attacking, the player must successfully complete Quick Time Events (QTEs) to land the attack and deal extra damage.
+When defending, the player can dodge by pressing the button at the right moment, just before the enemy's attack hits, avoiding all damage.
+
+<img src="./expedition_33.png" alt="Description" width="1080">
+
+Link:
+
+- [Source](https://github.com/ViniciusChrisosthemos/ClairObscurBattleUnity)
+- [Demo](https://www.youtube.com/watch?v=ZV1fHLDFCHA)
+
 Link: [Demo](https://youtu.be/-J63ma1XvAU)
 
 ## Game like Disptach + MHA
