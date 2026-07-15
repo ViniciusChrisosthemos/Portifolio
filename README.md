@@ -1,5 +1,3 @@
-# Curriculum Vitae
-
 # Resume
 PhD's degree (in progress) in Computer Science. I am interested in the area of ​​developing Virtual and Augmented Reality applications, Computer Vision and Games.
 I have knowledge in: C, C++, C#, Java, Python, Unity, Git, OpenCV, OpenGL.
