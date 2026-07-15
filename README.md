@@ -22,6 +22,7 @@ Within the museum, each attraction presents math-focused activities tailored to 
 
 ![alt text](./vr-museum.png)
 
+Link: [Demo](https://youtu.be/-J63ma1XvAU)
 
 ## Combat system like Clair Obscure: Expedition 33
 
@@ -37,7 +38,6 @@ Link:
 - [Source](https://github.com/ViniciusChrisosthemos/ClairObscurBattleUnity)
 - [Demo](https://www.youtube.com/watch?v=ZV1fHLDFCHA)
 
-Link: [Demo](https://youtu.be/-J63ma1XvAU)
 
 ## Game like Disptach + MHA
 This project is a clone of the game Dispatch developed using Unity, created solely for educational and learning purposes in Unity game development.
