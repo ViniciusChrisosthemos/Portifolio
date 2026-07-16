@@ -83,7 +83,7 @@ In editing mode, a library of objects downloads asset bundles from a server and 
 
 ![alt text](./App.png)
 
-Link: [Demo](http://tiny.cc/TrainingEditorDemo)
+Link: [Demo](https://youtube.com/shorts/ASpNvN2Lv0Q?feature=share)
 
 The system was developed using the Unity Engine, in C#, for the Oculus Quest 2 platform.
 
